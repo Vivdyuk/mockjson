@@ -28,28 +28,28 @@
   "clients": [
     {
       "id": 1,
-      "imgUrl": "client1.jpg",
-      "name": "Moana Michell",
+      "imgUrl": "https://thumbs.dreamstime.com/z/handsome-guy-being-bored-talking-stranger-random-staff-yawning-cover-opened-mouth-fist-squinting-tired-standing-fatigue-208073876.jpg",
+      "name": "Josh Smith",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
       "timestamp": "2022-06-30"
     },
     {
       "id": 2,
-      "imgUrl": "client2.jpg",
-      "name": "Mike  UN Hamell",
-      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-      "timestamp": "2020-05-25"
-    },
-    {
-      "id": 3,
-      "imgUrl": "client2.jpg",
+      "imgUrl": "https://st4.depositphotos.com/18610578/21932/i/600/depositphotos_219322862-stock-photo-adult-cheerful-man-smiling-orange.jpg",
       "name": "Mike Hamell",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
       "timestamp": "2020-05-25"
     },
     {
+      "id": 3,
+      "imgUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "name": "Mikey Hamell",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "timestamp": "2020-05-25"
+    },
+    {
       "id": 4,
-      "imgUrl": "client1.jpg",
+      "imgUrl": "http://fitting-it-all-in.com/wp-content/uploads/2016/06/IMG_9621-500x667.jpg",
       "name": "Moana UN Michell",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
       "timestamp": "2022-06-30"
