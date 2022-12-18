@@ -285,13 +285,7 @@
       "discount": 20,
       "isActive": true
     },
-    {
-      "id": 2,
-      "name": "Tasty Fridays",
-      "imgSrc": "o3.jpg",
-      "discount": 100,
-      "isActive": false
-    },
+   
     {
       "id": 3,
       "name": "Pizza Days",
