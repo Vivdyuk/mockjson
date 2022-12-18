@@ -18,12 +18,6 @@
       "body": "Doloremque, itaque aperiam facilis rerum, commodi, temporibu sapiente ad mollitia  quam quisquam esse error unde. Tempora ex doloremque, labore, sunt epellat dolore, iste magni quos nihil ducimus libero ipsam.",
       "isActive": true
     },
-    {
-      "id": 4,
-      "header": "This one is old",
-      "body": "Doloremque, itaque aperiam facilis rerum, commodi, temporibu sapiente ad mollitia  quam quisquam esse error unde. Tempora ex doloremque, labore, sunt epellat dolore, iste magni quos nihil ducimus libero ipsam.",
-      "isActive": false
-    }
   ],
   "menu": [
     {
@@ -225,16 +219,6 @@
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "https://assets.bonappetit.com/photos/5b9a901947aaaf7cd9ea90f2/1:1/w_2240,c_limit/ba-recipe-pasta-al-limone.jpg"
-    },
-    {
-      "id": "21",
-      "name":  "Not French Fries",
-      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-      "type": "Fries",
-      "price": 9,
-      "isActive": true,
-      "isAvailable": true,
-      "imgUrl": "https://cdn1.jernejkitchen.com/sites/default/files/styles/recipe_headerbreakpoints_theme_jernejkitchenr_screen-xl-min_2x/public/baked-potato-wedges-with-yogurt-dip-1-jernejktichen.jpg?itok=C0D9qamG&timestamp=1533641636"
     },
     {
       "id": "22",
