@@ -58,41 +58,45 @@
   "menu": [
     {
       "id": "1",
-      "name":  "Delicious Pizza",
+      "name":  "Pepper Pepperoni",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pizza",
       "price": 15,
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f1.png"
-    },  {
+    },
+    {
       "id": "2",
-      "name":  "Delicious Burger",
+      "name":  "Beef & Trouble",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Burger",
       "price": 12,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f2.png"
-    },  {
+      "imgUrl": "https://images.ricardocuisine.com/services/recipes/992x1340_bruger.png"
+    },
+    {
       "id": "3",
-      "name":  "Delicious Pasta",
+      "name":  "Carbonara",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pasta",
       "price": 9,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f3.png"
-    },  {
+      "imgUrl": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-master768-v2.jpg?w=1280&q=75"
+    },
+    {
       "id": "4",
-      "name":  "Delicious Pizza",
+      "name":  "Margarita",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pizza",
       "price": 15,
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f4.png"
-    },  {
+    },
+    {
       "id": "5",
       "name":  "French Fries",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
@@ -101,78 +105,176 @@
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f5.png"
-    },  {
+    },
+    {
       "id": "6",
-      "name":  "Delicious Pizza",
+      "name":  "Rickastleyan",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pizza",
       "price": 15,
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f6.png"
-    },  {
+    },
+    {
       "id": "7",
-      "name":  "Delicious Pizza",
+      "name":  "4 Cheeses",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pizza",
       "price": 15,
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f7.png"
-    },  {
+    },
+    {
       "id": "8",
-      "name":  "Delicious Pasta",
+      "name":  "Bolognese",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pasta",
       "price": 15,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f8.png"
-    },  {
+      "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/190130-pasta-puttanesca-horizontal-1549421254.png?resize=480:*"
+    },
+    {
       "id": "9",
-      "name":  "Delicious Burger",
+      "name":  "Chicker",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Burger",
       "price": 12,
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f9.png"
-    },  {
+    },
+    {
       "id": "10",
-      "name":  "Delicious Pizza",
+      "name":  "Fluffy Pleasure",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pizza",
       "price": 15,
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f10.png"
-    },  {
+    },
+    {
       "id": "11",
-      "name":  "Delicious Pizza",
+      "name":  "Cerosino",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pizza",
       "price": 15,
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f11.png"
-    },  {
+    },
+    {
       "id": "12",
-      "name":  "Delicious Pizza",
+      "name":  "Justino Pizza",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pizza",
       "price": 15,
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f12.png"
-    },  {
+    },
+    {
       "id": "13",
-      "name":  "Delicious Pizza",
+      "name":  "Hawaiian (for God's sake)",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       "type": "Pizza",
       "price": 15,
       "isActive": true,
       "isAvailable": true,
       "imgUrl": "f13.png"
+    },
+    {
+      "id": "14",
+      "name":  "Bad habit",
+      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+      "type": "Burger",
+      "price": 17,
+      "isActive": true,
+      "isAvailable": true,
+      "imgUrl": "f9.png"
+    },
+    {
+      "id": "15",
+      "name":  "Yummy Bunny",
+      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+      "type": "Burger",
+      "price": 12,
+      "isActive": true,
+      "isAvailable": true,
+      "imgUrl": "f9.png"
+    },
+    {
+      "id": "16",
+      "name":  "Chicker",
+      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+      "type": "Burger",
+      "price": 12,
+      "isActive": true,
+      "isAvailable": true,
+      "imgUrl": "f9.png"
+    },
+    {
+      "id": "17",
+      "name":  "Mummy Meal",
+      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+      "type": "Pasta",
+      "price": 9,
+      "isActive": true,
+      "isAvailable": true,
+      "imgUrl": "https://www.saveur.com/uploads/2022/12/01/Mussels-pasta-Recipe-Saveur-13-scaled.jpg?auto=webp&auto=webp&optimize=high&quality=70&width=720&dpr=2"
+    },
+    {
+      "id": "18",
+      "name":  "Mac'n'Cheese",
+      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+      "type": "Pasta",
+      "price": 19,
+      "isActive": true,
+      "isAvailable": true,
+      "imgUrl": "https://www.spoonforkbacon.com/wp-content/uploads/2020/10/pumpkin_mac_cheese_v2.jpg"
+    },
+    {
+      "id": "19",
+      "name":  "Macarooney",
+      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+      "type": "Pasta",
+      "price": 10,
+      "isActive": true,
+      "isAvailable": true,
+      "imgUrl": "https://www.foodandwine.com/thmb/TVHmqbPmhgeuNyL2TVHIQWZ-Vk8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cream-tomato-rigatoni-FT-RECIPE1020-139fb3fa52574e8bb06f98e7fa3e4f1e.jpg"
+    },
+    {
+      "id": "20",
+      "name":  "Prosto Pasta",
+      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+      "type": "Pasta",
+      "price": 14,
+      "isActive": true,
+      "isAvailable": true,
+      "imgUrl": "https://assets.bonappetit.com/photos/5b9a901947aaaf7cd9ea90f2/1:1/w_2240,c_limit/ba-recipe-pasta-al-limone.jpg"
+    },
+    {
+      "id": "21",
+      "name":  "Not French Fries",
+      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+      "type": "Fries",
+      "price": 9,
+      "isActive": true,
+      "isAvailable": true,
+      "imgUrl": "https://cdn1.jernejkitchen.com/sites/default/files/styles/recipe_headerbreakpoints_theme_jernejkitchenr_screen-xl-min_2x/public/baked-potato-wedges-with-yogurt-dip-1-jernejktichen.jpg?itok=C0D9qamG&timestamp=1533641636"
+    },
+    {
+      "id": "22",
+      "name":  "Mashed Potatoes",
+      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+      "type": "Fries",
+      "price": 6,
+      "isActive": true,
+      "isAvailable": true,
+      "imgUrl": "https://www.gimmesomeoven.com/wp-content/uploads/2018/11/The-Best-Mashed-Potatoes-Recipe-5-2.jpg"
     }
   ],
   "offers": [
