@@ -34,7 +34,7 @@
       "price": 15,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f1.png"
+      "imgUrl": "https://www.recipetineats.com/wp-content/uploads/2020/05/Pepperoni-Pizza_7.jpg"
     },
     {
       "id": "2",
@@ -64,7 +64,7 @@
       "price": 15,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f4.png"
+      "imgUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/11/pizza-recipe.jpg"
     },
     {
       "id": "5",
@@ -84,7 +84,7 @@
       "price": 15,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f6.png"
+      "imgUrl": "https://www.thespruceeats.com/thmb/JOqO5XWqtGaXOFAYtLTNNDOo_hs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/prosciutto-pizza-4844358-hero-04-c0a6f73057ce4fed88982b75a5c2c8e1.jpg"
     },
     {
       "id": "7",
@@ -94,7 +94,7 @@
       "price": 15,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f7.png"
+      "imgUrl": "https://www.allrecipes.com/thmb/0VbhvvGV689QdgsPAmjLohGmGJU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20171-quick-and-easy-pizza-crust-vilma-ng-3x2-1-3bd0fb6131244d8db3efb53391ee0fc3.jpg"
     },
     {
       "id": "8",
