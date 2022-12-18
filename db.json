@@ -191,16 +191,6 @@
       "imgUrl": "https://www.saveur.com/uploads/2022/12/01/Mussels-pasta-Recipe-Saveur-13-scaled.jpg?auto=webp&auto=webp&optimize=high&quality=70&width=720&dpr=2"
     },
     {
-      "id": "18",
-      "name":  "Mac'n'Cheese",
-      "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-      "type": "Pasta",
-      "price": 19,
-      "isActive": true,
-      "isAvailable": true,
-      "imgUrl": "https://www.spoonforkbacon.com/wp-content/uploads/2020/10/pumpkin_mac_cheese_v2.jpg"
-    },
-    {
       "id": "19",
       "name":  "Macarooney",
       "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
@@ -249,8 +239,4 @@
 
     }
   ]
-
-
-
-
 }
