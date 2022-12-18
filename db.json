@@ -114,7 +114,7 @@
       "price": 12,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f9.png"
+      "imgUrl": ""
     },
     {
       "id": "10",
@@ -124,7 +124,7 @@
       "price": 15,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f10.png"
+      "imgUrl": ""
     },
     {
       "id": "11",
@@ -134,7 +134,7 @@
       "price": 15,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f11.png"
+      "imgUrl": ""
     },
     {
       "id": "12",
@@ -144,7 +144,7 @@
       "price": 15,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f12.png"
+      "imgUrl": ""
     },
     {
       "id": "13",
@@ -154,7 +154,7 @@
       "price": 15,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f13.png"
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNw0PQjq7U41uwO3qxZ6mR68CuGFvNpNDRZQ&usqp=CAU"
     },
     {
       "id": "14",
@@ -164,7 +164,7 @@
       "price": 17,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f9.png"
+      "imgUrl": ""
     },
     {
       "id": "15",
@@ -174,7 +174,7 @@
       "price": 12,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f9.png"
+      "imgUrl": ""
     },
     {
       "id": "16",
@@ -184,7 +184,7 @@
       "price": 12,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "f9.png"
+      "imgUrl": ""
     },
     {
       "id": "17",
