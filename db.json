@@ -17,7 +17,7 @@
       "header": "Last but bot least!",
       "body": "Doloremque, itaque aperiam facilis rerum, commodi, temporibu sapiente ad mollitia  quam quisquam esse error unde. Tempora ex doloremque, labore, sunt epellat dolore, iste magni quos nihil ducimus libero ipsam.",
       "isActive": true
-    },
+    }
   ],
   "menu": [
     {
@@ -48,7 +48,7 @@
       "price": 9,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-master768-v2.jpg?w=1280&q=75"
+      "imgUrl": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-master768-v2.jpg"
     },
     {
       "id": "4",
@@ -188,7 +188,7 @@
       "price": 9,
       "isActive": true,
       "isAvailable": true,
-      "imgUrl": "https://www.saveur.com/uploads/2022/12/01/Mussels-pasta-Recipe-Saveur-13-scaled.jpg?auto=webp&auto=webp&optimize=high&quality=70&width=720&dpr=2"
+      "imgUrl": "https://www.saveur.com/uploads/2022/12/01/Mussels-pasta-Recipe-Saveur-13-scaled.jpg"
     },
     {
       "id": "19",
