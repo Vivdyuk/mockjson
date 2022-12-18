@@ -25,36 +25,6 @@
       "isActive": false
     }
   ],
-  "clients": [
-    {
-      "id": 1,
-      "imgUrl": "https://placeimg.com/640/480/people",
-      "name": "Josh Smith",
-      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-      "timestamp": "2022-06-30"
-    },
-    {
-      "id": 2,
-      "imgUrl": "https://placeimg.com/640/480/people",
-      "name": "Mike Hamell",
-      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-      "timestamp": "2020-05-25"
-    },
-    {
-      "id": 3,
-      "imgUrl": "https://placeimg.com/640/480/people",
-      "name": "Mikey Hamell",
-      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-      "timestamp": "2020-05-25"
-    },
-    {
-      "id": 4,
-      "imgUrl": "https://placeimg.com/640/480/people",
-      "name": "Moana UN Michell",
-      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-      "timestamp": "2022-06-30"
-    }
-  ],
   "menu": [
     {
       "id": "1",
